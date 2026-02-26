@@ -27,14 +27,14 @@ body {
     background: white;
   }
   
-  lif {
+  li {
     display: flex;
     justify-content: space-between;
     padding: 10px;
     border-bottom: 1px solid #ddd;
   }
   
-  lif.completed {
+  li.completed {
     text-decoration: line-through;
     color: gray;
   }
